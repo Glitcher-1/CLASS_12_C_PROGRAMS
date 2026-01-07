@@ -1,0 +1,2 @@
+
+char checking(int x ){

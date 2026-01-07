@@ -1,0 +1,62 @@
+----------------------C EXERCISE TABEL OF CONTENT-----------------------
+
+   =======================PROGRAMS FROM 2 TO 8 FOR THE REVISION===========================
+
+1.WAP in c to print "HELLO, PORGRAMMERS".
+2.WAP to input name, age and salary and print them on screen.
+
+3.WAP in C that reads marks of five subject and calculate total marks and percentage. 
+Also award the division on the basis of following criteria. Percentage P>=75                                               
+Division  Distinction P>=60 and <75              
+First Division P>=45 and <60             
+Second Division P>=35 and <45              
+Third Division Otherwise                       
+Failed
+
+4.Write a program to display the following Fibonacci series 5 6 11 17 28 ...  Up-to Nth term.
+5.WAP to check the given number is palindrome or not.
+6.Write a program to input age of 20 students and count the number of students having age in between 20 to 25. 
+7.WAP to input n numbers and sort them in ascending order and desccending order.
+8.WAP for taking n input names from user and sorting them in alphabetical order.
+
+================================  FROM HERE WE USE THE CONCEPT OF FUCNTION ===========================================
+9.WAP in C to input any two numbers and find their multiplication ,division ,sum and subtraction by using function.
+10.WAP to input n numbers and sort them in decending order by using function.
+11.WRITE A PROGRAM IN C THAT CAN CALCULATE AND DISPLAY THE SIMPLE INTREST BASED ON THE USER’S INPUT FOR PRINCIPAL, TIME AND RATE using user defined FUNCTION.
+12.Write a program to find the greatest number among three numbers by using function.
+13.Write a program to check whether the entered number is even or odd using function.
+14.Write a program in C to calculate the sum of natural number by using recursion.
+15.Write a program to calculate factorial of a number. Or product of natural number by using function.
+16.Write a program to display the Fibonacci series up-to n term using recursive function.
+17.Write a program to display the name, age and salary of a person by using the concept of structure.
+18.Write a program in C that stores information ( Name, Address, Age and email) of 5 students by using the concept of array of structure.
+19.Write a program that reads names and address of different students and rearrange them on the basis of name in alphabetical order.
+
+
+20.WAP to find the size of union.
+
+21.Write a report on review of c 
+(Introduction, history, features, datatypes, variables, array and string).
+ DEFINE FUNCTION AND IT’S TyPES wITh ExAMP
+
+22.Write a program to find factorial of a number using pointer variable.
+23.WAP to create a datafile “PATIENT.TxT” AND STORE NAME DISEASE age and bed number of a patient.
+24.wAP TO CREATE A DATAFILE “STUDENT.TxT” and add name age and class of n numbers of student.
+
+25.A DATAFILE “STUDENT.TxT” CONTAIN NAME, class and marks obtained in 3 different subject of few students. 
+Write a c program TO ADD MORE RECORDS UNTIL USER PRESS “y” AS per user requirements.
+
+26.Wap in c to enter employee Id, name and post of the employee and store them in A DATAFILE NAMED “EMP.TxT”. 
+DISPLAy each record on the screen.
+27.Wap in c to enter n number employee Id, name and salary of the employee and store them in A DATAFILE NAMED “EMP.TxT”. 
+DISPLAy each record on the screen using structur.
+
+28.Wap in c to enter employee Id, name and salary of the employee and store them in A DATAFILE NAMED “EMP.TxT”. 
+DISPLAy each record on the screen by using concept of structure.
+
+29.Same program by using w+ mode...(question 28)
+30.Write a program to display the Fibonacci series up-to n term using recursive function taking first term 5 and second term 6.
+31.Write a program to display the name, age and salary of a n number of person by using the concept of array structure.
+32.Wap in c to enter n number of employee Id, name and salary of the employee and store them in A DATAFILE NAMED “EMP.TxT”. 
+DISPLAy each record on the screen on the basis of name(ascending order) by using concept of structure.
+33.WAP IN C TO FIND THE ENTERED NUMBER IS PRIME OR NOT.8
